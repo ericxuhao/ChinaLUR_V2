@@ -1,4 +1,4 @@
-# ChinaLUR
+# ChinaLUR-V2.0
 National predictions of NO2 and PM2.5 based on Land Use Regression, satellite data and Universal Kriging--version2.0    
 **Format**：Geotiff      
 **Spatial Resolution:** 1km×1km     
