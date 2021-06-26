@@ -12,7 +12,7 @@ National predictions of NO2 and PM2.5 based on Land Use Regression, satellite da
 **HOW TO OPEN/READ THE FILE:** Using ArcGIS or any programming language with GDAL package (e.g. python+gdal/R+rgdal)    
 **Data creator:** Hao Xu      
 **Author:**  Hao Xu, Matthew Bechle and Julian Marshall     
-**Contact:** Hao Xu (xuhao13@mails.tsinghua.edu.cn / xuhao13@uw.edu)     
+**Contact:** Hao Xu (xuhao13@tsinghua.org.cn / xuhao13@uw.edu)     
 **PLEASE email Hao Xu to ask for the passcode of these files**     
 **These data must not be used for publications before authorized. 
 **!!All the 7z files should be downloaded before decompress them!!**                   
